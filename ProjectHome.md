@@ -1,0 +1,3 @@
+The circuit operates with only few ICs and can count persons entering any room, or any objects moving along the conveyor belt. The circuit increments the count automatically, and it can count a maximum of upto 99 persons/objects.The count can be extended further.It displays the count on two 7-segment displays.
+
+The main advantage of this is its use in small-scale applications where costly micro controllers are not required.
